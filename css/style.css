@@ -1,5 +1,5 @@
 body{
-	background: #eeeeee;
+	background: #FBF8F1;
 	font-family: 'Open Sans', sans-serif;
 
 }
@@ -18,7 +18,7 @@ body{
 
 }
 .botonera li a:hover{
-	color: black;
+	color: #54BAB9;
 	text-decoration: none;
 }
 
@@ -35,11 +35,11 @@ header{
 .principal{
 	background: red;
 	height: 90vh;
-	background: url(../images/23926343_1661500030582540_5469621639768249700_o.jpg)no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	background: url(../images/Consultorio-medico.jpg)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 
@@ -58,12 +58,12 @@ header{
 h1{
 	font-weight: 700;
 	font-size: 50px;
-	color: rgba(255,255,255,.7);
+	color: #54BAB9);
 }
 
 .orange{
 
-	background: #FF00FF;
+	background: #54BAB9;
 }
 
 .nosotros{
@@ -86,7 +86,7 @@ h1{
 }
 
 .servicios h1{
-	color: #666;
+	color: #54BAB9;
 	font-weight: 100;
 }
 .servicios .images{
@@ -106,9 +106,18 @@ h1{
 }
 
 footer{
-	background: #757575;
+	background: #E9DAC1;
 	height: 50vh;
 	padding-top: 30px;
+
+
+	height: 90vh;
+	background: url(../images/Consultorio-medico.jpg)no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
 }
 footer h1{
 	text-align: center;
@@ -116,11 +125,25 @@ footer h1{
 }
 
 #home {
-	color: white;
+	color: #54BAB9;
 }
 .col-xs-4{
 	text-align: center;
 }
+
+#contacto {
+	color: #54BAB9;
+	
+}
+
+.col-md-12 {
+	background-color: rgba(251,248,241,0.5);
+}
+
+.col-md-8 {
+	background-color: rgba(251,248,241,0.5);
+}
+
 
 
 /*@media only screen 
