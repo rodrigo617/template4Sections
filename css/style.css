@@ -58,7 +58,7 @@ header{
 h1{
 	font-weight: 700;
 	font-size: 50px;
-	color: #54BAB9);
+	color: #54BAB9;
 }
 
 .orange{
@@ -74,6 +74,7 @@ h1{
 }
 .nosotros h1{
 	font-weight: 100;
+	color: black;
 }
 .servicios{
 	text-align: center;
@@ -136,13 +137,13 @@ footer h1{
 	
 }
 
-.col-md-12 {
+.col-md-12, .col-md-8 {
 	background-color: rgba(251,248,241,0.5);
 }
 
-.col-md-8 {
+/* .col-md-8 {
 	background-color: rgba(251,248,241,0.5);
-}
+} */
 
 
 
